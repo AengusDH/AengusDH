@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Digital Tech Teacher who is hoping to use github to manage students projects 
 <!--
 **AengusDH/AengusDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
